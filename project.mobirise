@@ -440,7 +440,7 @@
           },
           "text1": "<strong>Adres</strong><br>Sanne van Deursen<br>De Houtwal 7<br>6704 AW Wageningen",
           "text2": "<p><strong>Contact</strong><br>\nE-mail: <a href=\"mailto:sanne@signedbysanne.nl\" class=\"text-danger\">sanne@signedbysanne.nl</a><a href=\"mailto:info@signedbysanne.nl\" class=\"text-danger\"></a><br>Tel: 06 51 19 80 68<br></p>",
-          "text3": "<p><strong>Overig</strong><br>KvK: 61329568<br>BTW: NL166532691B01<br>LinkedIn: <a href=\"https://www.linkedin.com/in/sannevandeursen/\" class=\"text-danger\">Klik hier</a><br></p>"
+          "text3": "<p><strong>Overig</strong><br>LinkedIn: <a href=\"https://www.linkedin.com/in/sannevandeursen/\" target=\"_blank\" class=\"text-danger\">Klik hier</a><br>BTW: NL166532691B01<br>KvK: 61329568<br></p>"
         }
       ]
     }
